@@ -1,3 +1,4 @@
+![logo](https://github.com/dharmik-21/dharmik-21/blob/main/WhatsApp%20Image%202025-11-08%20at%2011.14.30%20PM.jpg)
 <h1 align="center">Hi 👋, I'm Dharmik Barot</h1>
 <h3 align="center">A passionate AI/ML Engineer from Bangalore</h3>
 
