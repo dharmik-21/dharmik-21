@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Dharmik Barot </h1>
 <h3 align="center">A passionate AI/ML Engineer from Bangalore</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dharmik-21&label=Profile%20views&color=0e75b6&style=3d" alt="dharmik-21" /> </p>
 
 
 <br>
