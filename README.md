@@ -1,3 +1,30 @@
+<!-- Profile repository: github.com/dharmik-21/dharmik-21 -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 390" role="img" aria-labelledby="title desc">
+  <title id="title">Dharmik Barot - AI / ML Engineer</title>
+  <desc id="desc">A dark futuristic banner with animated orbital lines around a glowing AI core.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#070b14"/><stop offset=".5" stop-color="#0d1b2a"/><stop offset="1" stop-color="#062c31"/></linearGradient>
+    <radialGradient id="core"><stop stop-color="#e6fffb"/><stop offset=".18" stop-color="#5eead4"/><stop offset=".5" stop-color="#0d9488" stop-opacity=".55"/><stop offset="1" stop-color="#0d9488" stop-opacity="0"/></radialGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="8" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#5eead4" stroke-opacity=".07"/></pattern>
+  </defs>
+  <rect width="1600" height="390" fill="url(#bg)"/><rect width="1600" height="390" fill="url(#grid)"/>
+  <g transform="translate(1225 194)" fill="none" stroke="#5eead4" stroke-opacity=".42">
+    <ellipse rx="275" ry="85" stroke-width="1.5" transform="rotate(-22)"><animateTransform attributeName="transform" type="rotate" from="-22 0 0" to="338 0 0" dur="25s" repeatCount="indefinite"/></ellipse>
+    <ellipse rx="210" ry="64" stroke-width="1" transform="rotate(48)"><animateTransform attributeName="transform" type="rotate" from="48 0 0" to="-312 0 0" dur="19s" repeatCount="indefinite"/></ellipse>
+    <circle r="122" stroke="#2dd4bf" stroke-opacity=".25"/><circle r="86" stroke="#5eead4" stroke-opacity=".22"/>
+  </g>
+  <g transform="translate(1225 194)"><circle r="124" fill="url(#core)" filter="url(#glow)"><animate attributeName="r" values="116;132;116" dur="3.8s" repeatCount="indefinite"/></circle><circle r="13" fill="#e6fffb"/><circle r="5" fill="#0f766e"/></g>
+  <g fill="#5eead4" filter="url(#glow)"><circle cx="1010" cy="118" r="4"><animate attributeName="opacity" values=".2;1;.2" dur="2.1s" repeatCount="indefinite"/></circle><circle cx="1445" cy="91" r="3"><animate attributeName="opacity" values="1;.2;1" dur="3s" repeatCount="indefinite"/></circle><circle cx="1512" cy="282" r="4"><animate attributeName="opacity" values=".3;1;.3" dur="2.6s" repeatCount="indefinite"/></circle></g>
+  <g fill="#e2e8f0" font-family="Arial, Helvetica, sans-serif"><text x="112" y="146" font-size="20" letter-spacing="7" fill="#5eead4">AI / ML ENGINEER</text><text x="108" y="224" font-size="72" font-weight="700" letter-spacing="-2">DHARMIK BAROT</text><text x="112" y="270" font-size="19" fill="#94a3b8" letter-spacing="1">BUILDING INTELLIGENCE WITH INTENT</text></g>
+  <path d="M112 301h450" stroke="#2dd4bf" stroke-opacity=".42"/><circle cx="112" cy="301" r="4" fill="#5eead4"/>
+</svg>
+
+<div align="center">
+  <img src="./assets/ai-orbit.svg" width="100%" alt="Dharmik Barot - building intelligence with intent" />
+</div>
+
+<br />
 
 ```text
 SYSTEM / DHARMIK.BAROT
