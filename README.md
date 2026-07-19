@@ -107,6 +107,48 @@ Motivated **MCA student** specializing in Artificial Intelligence and Machine Le
 <td><img src="https://github-profile-trophy.vercel.app/?username=dharmik-21&theme=radical&no-frame=true&row=2&column=3&margin-w=8&margin-h=8" alt="Trophies"/></td>
 </tr>
 </table>
+name: Snake Contribution Animation
+
+# This workflow generates an animated SVG of a snake "eating" your
+# contribution graph, and publishes it to a branch called `output`.
+# It's the closest thing GitHub actually allows to a "live" animation
+# on a profile README, because it updates automatically on a schedule
+# instead of being a static image.
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # regenerates once a day
+  workflow_dispatch:        # lets you trigger it manually from the Actions tab
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate the snake animation
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push to the output branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          commit_message: "Update snake animation [skip ci]"
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dharmik-21&bg_color=0D1117&color=F2A65A&line=F2A65A&point=FFFFFF&hide_border=true&area=true" width="95%" alt="Activity graph"/>
