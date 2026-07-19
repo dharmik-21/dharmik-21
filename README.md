@@ -1,117 +1,136 @@
 <!--
-  GitHub Profile README for @dharmik-21
-  Theme: Ghost Green / Black / Graphite
+  GitHub Profile README for github.com/dharmik-21
+  Put this README and the assets/ folder in a repository named exactly: dharmik-21
 -->
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050706,45:0B2118,76:123D26,100:70E000&height=150&section=header&text=DHARMIK%20BAROT&fontColor=C8FF8A&fontSize=48&fontAlignY=42&desc=AI%20%2F%20ML%20ENGINEER%20%C2%B7%20BUILDING%20USEFUL%20INTELLIGENCE&descColor=9DBF9E&descSize=13&descAlignY=63" width="100%" alt="Dharmik Barot" />
-</div>
+<p align="center">
+  <img src="./assets/profile-header.svg" alt="Dharmik Barot - AI/ML Engineer" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/dharmik-21"><img src="https://img.shields.io/badge/GitHub-dharmik--21-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/barot-dharmik2105/"><img src="https://img.shields.io/badge/LinkedIn-Dharmik%20Barot-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:dharmik.aieng@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Dharmik" /></a>
+</p>
+
+<p align="center">
+  <img src="./assets/animated-divider.svg" alt="" width="100%" />
+</p>
 
 <table>
   <tr>
-    <td width="32%" align="center" valign="top">
-      <img src="./assets/profile-orbit.svg" width="245" alt="Dharmik's portrait with rotating ghost-green orbit" />
-      <br />
-      <sub><code>● ONLINE · BENGALURU, INDIA</code></sub>
+    <td width="31%" valign="top" align="center">
+      <a href="https://github.com/dharmik-21">
+        <img src="https://github.com/dharmik-21.png?size=300" width="210" alt="Dharmik Barot" />
+      </a>
+      <br /><br />
+      <sub>Building AI that can <b>see</b>, <b>reason</b>, and <b>help</b>.</sub>
     </td>
-    <td width="68%" valign="middle">
-      <h1>Hey, I’m Dharmik. <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" alt="wave" /></h1>
-      <p>I’m an AI/ML Engineer who turns ambitious ideas into practical products. I work across <b>computer vision, LLM systems, RAG, agentic AI, and full-stack applications</b> - with a focus on technology that is useful to people, not just impressive in a notebook.</p>
-      <p>I’m currently building <b>Cortex Lens</b>, an AI-powered assistive smart-glasses system that helps people with visual impairments understand the space around them in real time.</p>
-      <a href="mailto:dharmik.aieng@gmail.com"><img src="https://img.shields.io/badge/Send_a_message-70E000?style=for-the-badge&logo=gmail&logoColor=08100A&labelColor=0C120E" alt="Email Dharmik" /></a>
-      <a href="https://www.linkedin.com/in/barot-dharmik2105"><img src="https://img.shields.io/badge/LinkedIn-121A14?style=for-the-badge&logo=linkedin&logoColor=70E000" alt="Dharmik on LinkedIn" /></a>
+    <td width="69%" valign="top">
+      <h2>Hey, I'm Dharmik 👋</h2>
+      <p>
+        I'm an <b>AI/ML Engineer</b> and MCA student specialising in Artificial Intelligence &amp; Machine Learning at Jain University. I build practical, data-driven products at the intersection of <b>computer vision</b>, <b>NLP</b>, <b>LLMs</b>, and <b>agentic AI</b>.
+      </p>
+      <p>
+        My work ranges from a wearable assistive-vision system for people who are blind to OCR-powered financial analytics and real-time satellite-image intelligence. I also build full-stack web experiences with the <b>MERN stack</b>.
+      </p>
+      <p>
+        <b>Currently exploring:</b> multimodal AI, RAG pipelines, autonomous agents, model optimisation, and human-centred AI products.
+      </p>
     </td>
   </tr>
 </table>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=850&color=70E000&center=true&vCenter=true&width=760&lines=I+build+AI+that+can+see%2C+reason%2C+and+help.;Vision+%E2%80%A2+Language+%E2%80%A2+Intelligent+products.;Always+learning.+Always+building." alt="Animated professional statement" />
-</div>
+## ⚡ Focus areas
 
-<br />
+<p>
+  <img src="https://img.shields.io/badge/Computer%20Vision-58A6FF?style=flat-square&logo=opencv&logoColor=white" alt="Computer Vision" />
+  <img src="https://img.shields.io/badge/LLM%20Development-3FB950?style=flat-square&logo=openai&logoColor=white" alt="LLM Development" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-A371F7?style=flat-square" alt="Agentic AI" />
+  <img src="https://img.shields.io/badge/NLP-EA4AAA?style=flat-square" alt="Natural Language Processing" />
+  <img src="https://img.shields.io/badge/IoT%20%26%20Edge%20AI-F59E0B?style=flat-square&logo=raspberrypi&logoColor=white" alt="IoT and Edge AI" />
+  <img src="https://img.shields.io/badge/MERN%20Stack-00C7B7?style=flat-square&logo=mongodb&logoColor=white" alt="MERN Stack" />
+</p>
 
-## `< / >` Focus areas
+<p align="center">
+  <img src="./assets/animated-divider.svg" alt="" width="100%" />
+</p>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/COMPUTER_VISION-0B100D?style=for-the-badge&logo=opencv&logoColor=70E000" alt="Computer Vision" />
-  <img src="https://img.shields.io/badge/LLM_ENGINEERING-0B100D?style=for-the-badge&logo=openai&logoColor=70E000" alt="LLM Engineering" />
-  <img src="https://img.shields.io/badge/AGENTIC_AI-0B100D?style=for-the-badge&logo=buffer&logoColor=70E000" alt="Agentic AI" />
-  <img src="https://img.shields.io/badge/MERN_STACK-0B100D?style=for-the-badge&logo=mongodb&logoColor=70E000" alt="MERN Stack" />
-</div>
+## 🧰 Skills & tools
 
-<br />
-
-## Things I’ve built
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>👓 Cortex Lens</h3>
-      <p><b>Assistive smart glasses for the blind.</b></p>
-      <p>Combines real-time object detection, depth awareness, OCR book-reading, tactile controls, and voice feedback into a compact wearable system.</p>
-      <p><code>YOLOv8</code> <code>PyTorch</code> <code>MiDaS</code> <code>EasyOCR</code> <code>Raspberry Pi</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💹 Hisab AI</h3>
-      <p><b>Invoice intelligence with financial answers.</b></p>
-      <p>Extracts invoice data with OCR, structures GST details, powers visual dashboards, and answers business questions in natural language.</p>
-      <p><code>Streamlit</code> <code>Tesseract</code> <code>Pandas</code> <code>Plotly</code> <code>MySQL</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌀 CycloneVision AI</h3>
-      <p><b>One-class cyclone detection from satellite images.</b></p>
-      <p>Uses autoencoder reconstruction error and CNN localization, presented through a real-time analysis dashboard.</p>
-      <p><code>TensorFlow</code> <code>CNN</code> <code>OpenCV</code> <code>NumPy</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>✍️ Blog Generator AI</h3>
-      <p><b>LLM-assisted content generation with intent.</b></p>
-      <p>Uses NLP pipelines and LangChain to create focused articles with configurable structure, tone, and style.</p>
-      <p><code>LangChain</code> <code>LLMs</code> <code>NLP</code> <code>Streamlit</code></p>
-    </td>
-  </tr>
-</table>
-
-<br />
-
-## My stack
-
-<div align="center">
-  <p><b>AI &amp; DATA</b></p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&theme=dark" alt="Python, TensorFlow, PyTorch, OpenCV" />
-  <br /><br />
-  <p><b>FULL-STACK / MERN</b></p>
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,html,css&theme=dark" alt="MongoDB, Express, React, Node.js, JavaScript, HTML, CSS" />
-  <br /><br />
-  <p><b>TOOLS I SHIP WITH</b></p>
-  <img src="https://skillicons.dev/icons?i=fastapi,mysql,docker,git,github,linux&theme=dark" alt="FastAPI, MySQL, Docker, Git, GitHub, Linux" />
-</div>
-
-<br />
-
-## Live activity
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dharmik-21&show_icons=true&hide_border=true&bg_color=080B09&title_color=70E000&icon_color=70E000&text_color=D6E5D9&ring_color=70E000" alt="Dharmik's GitHub stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=dharmik-21&hide_border=true&background=080B09&ring=70E000&fire=B6FF4C&currStreakLabel=D6E5D9&sideLabels=70E000&dates=8AA08E&stroke=080B09" alt="Dharmik's contribution streak" />
-  <br /><br />
-  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=dharmik-21&bg_color=080B09&color=D6E5D9&line=70E000&point=B6FF4C&area=true&area_color=163A20&hide_border=true" alt="Dharmik's contribution graph" />
-  <br /><br />
-  <img src="https://raw.githubusercontent.com/dharmik-21/dharmik-21/output/github-contribution-grid-snake-dark.svg" alt="Live animated contribution snake" />
-</div>
-
-<br />
-
-## Beyond code
-
-- 🎓 MCA in Artificial Intelligence &amp; Machine Learning, Jain University (2024-2026)
-- 📄 Research author: *Multimodal AI: Transforming Business Decision-Making*
-- 🏅 Learning through NVIDIA, IIRS/ISRO, Microsoft Generative AI, and hackathon programs
-- 🤝 Open to AI/ML collaborations, research, and product challenges worth solving
-
-<div align="center">
+<details open>
+  <summary><b>AI, machine learning &amp; LLMs</b></summary>
   <br />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050706,40:0B2118,75:123D26,100:70E000&height=120&section=footer&text=LET%27S%20BUILD%20SOMETHING%20USEFUL&fontColor=C8FF8A&fontSize=23&fontAlignY=66" width="100%" alt="Let's build something useful" />
-</div>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" />
+</details>
+
+<details open>
+  <summary><b>Data, deployment &amp; app development</b></summary>
+  <br />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</details>
+
+<details open>
+  <summary><b>MERN stack</b></summary>
+  <br />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</details>
+
+<p align="center">
+  <img src="./assets/animated-divider.svg" alt="" width="100%" />
+</p>
+
+## 🚀 Featured work
+
+| Project | What I built | Core stack |
+| --- | --- | --- |
+| **Cortex Lens**<br />AI-powered assistive smart glasses | A wearable system that gives people who are blind real-time audio descriptions, obstacle awareness, and book-reading support. I optimised a Smart-Zone alert system for hazard distance and voice feedback. | `Python` `YOLOv8` `PyTorch` `MiDaS` `EasyOCR` `OpenCV` `Raspberry Pi` |
+| **Hisab AI**<br />Invoice processing & financial analytics | An OCR-first invoice-management app that converts images into structured GST and product data, then turns it into live dashboards and conversational insights. | `Python` `Streamlit` `Tesseract` `Pandas` `Plotly` `MySQL` `NLP` |
+| **CycloneVision AI**<br />Cyclone detection dashboard | An autoencoder-powered satellite-image anomaly-detection system with CNN reconstruction and multi-stage cyclone-centre localisation. | `Python` `TensorFlow` `Autoencoder` `CNN` `OpenCV` `Streamlit` |
+| **Blog Generator AI**<br />LLM content automation | A topic-to-article application with NLP pipelines, transformer-backed style control, and LangChain orchestration. | `Python` `LangChain` `LLMs` `NLP` `Streamlit` |
+
+## 📈 GitHub activity
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dharmik-21&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F0F6FC&text_color=C9D1D9&icon_color=3FB950" alt="Dharmik's GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharmik-21&layout=compact&hide_border=true&bg_color=0D1117&title_color=F0F6FC&text_color=C9D1D9&icon_color=3FB950" alt="Dharmik's most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dharmik-21&bg_color=0d1117&color=c9d1d9&line=3fb950&point=58a6ff&area=true&area_color=21262d&hide_border=true" alt="Dharmik's contribution activity" width="100%" />
+</p>
+
+## 🏅 Learning & recognition
+
+- Microsoft Career Essentials in Generative AI
+- 1 Million Prompters - Dubai AI
+- NVIDIA Hackathon Certificate and NVIDIA CUDA Python/C/C++ Certifications
+- OneEarth International Hackathon 2025
+- AI/ML for Geodata Analysis - IIRS, ISRO
+- Research author: *Multimodal AI: Transforming Business Decision-Making*
+
+<p align="center">
+  <img src="./assets/animated-divider.svg" alt="" width="100%" />
+</p>
+
+<p align="center">
+  <b>Let's build useful, responsible AI.</b><br />
+  <a href="mailto:dharmik.aieng@gmail.com">Email</a> ·
+  <a href="https://www.linkedin.com/in/barot-dharmik2105/">LinkedIn</a> ·
+  <a href="https://github.com/dharmik-21">GitHub</a>
+</p>
