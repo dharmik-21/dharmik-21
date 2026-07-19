@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1B1F3B,100:F2A65A&height=250&section=header&text=Dharmik%20Barot&fontSize=54&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20Engineer%20-%20LLM%20and%20Agentic%20AI%20Builder&descAlignY=55&descSize=18&descColor=E8E8E8" width="100%"/>
+<img src="https://raw.githubusercontent.com/dharmik-21/dharmik-21/main/hero-banner.svg" width="100%" alt="Dharmik Barot — animated agentic AI network"/>
 
 <a href="https://codewithdharmik.netlify.app/">
   <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=24&duration=3200&pause=900&color=F2A65A&center=true&width=750&height=90&lines=Welcome+to+my+GitHub+%F0%9F%91%8B;I'm+Dharmik+Barot%2C+AI%2FML+Engineer;Building+Agentic+AI+and+LLM+Systems;MERN+Stack+Developer+and+Data+Enthusiast" alt="Typing SVG"/>
@@ -108,7 +108,6 @@ Motivated **MCA student** specializing in Artificial Intelligence and Machine Le
 </tr>
 </table>
 
-
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dharmik-21&bg_color=0D1117&color=F2A65A&line=F2A65A&point=FFFFFF&hide_border=true&area=true" width="95%" alt="Activity graph"/>
 </div>
@@ -144,6 +143,6 @@ Motivated **MCA student** specializing in Artificial Intelligence and Machine Le
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dharmik.aieng@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://codewithdharmik.netlify.app/)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F2A65A,50:1B1F3B,100:0D1117&height=150&section=footer" width="100%"/>
+<sub>⚡ Thanks for stopping by — always open to interesting problems.</sub>
 
 </div>
